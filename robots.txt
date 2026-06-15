@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://godrej-kukatpalli.newgodrejproperties.com/sitemap.xml
